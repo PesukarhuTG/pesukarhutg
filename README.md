@@ -1,5 +1,24 @@
 ![Header image](./header-img.webp)
 
+<div align="center">
+  <a href="https://ganzhinovat.ru/" target="_blank">
+    <img src="https://img.shields.io/badge/-ganzhinovat.ru-f209b1?style=for-the-badge&logo=firefoxbrowser&logoColor=ffffff" alt="Ganzhinovat.ru Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/tatiana-ganzhinova/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0045CB?style=for-the-badge&logo=LinkedIn&logoColor=ffffff" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://t.me/pesukarhutg/" target="_blank">
+    <img src="https://img.shields.io/badge/-telegram-blue?style=for-the-badge&logo=Telegram&logoColor=ffffff" alt="Telegram Badge"/>
+  </a>
+  <a href="mailto:ganzhinovat@yandex.ru" target="_blank">
+    <img src="https://img.shields.io/badge/-email-0045CB?style=for-the-badge&logo=mail.ru&logoColor=ffffff" alt="Email Badge"/>
+  </a>
+</div>
+
+<!-- <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=PesukarhuTG&style=flat-square&color=blue" alt=""/>
+</div> -->
+
 ## Hi there!
 
 **My name is Tatiana and I'm a Front-end developer.**
@@ -53,5 +72,12 @@ Some facts about me:
 ![WordPress](https://img.shields.io/badge/-WordPress-764abc?style=flat-square&logo=WordPress&logoColor=FFFFFF)&nbsp;
 ![Joomla](https://img.shields.io/badge/-Joomla-764abc?style=flat-square&logo=Joomla&logoColor=63d8f8)&nbsp;
 ![Bitrix24](https://img.shields.io/badge/-Bitrix24-764abc?style=flat-square&logo=bookalope&logoColor=63d8f8)&nbsp;
-<br><br><br>
+
+<!-- ### MY STATS
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pesukarhutg&theme=highcontrast&show_icons=true)
+
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pesukarhutg&theme=highcontrast)](https://github.com/pesukarhutg/github-readme-stats) -->
+
+<br><br>
 ![Footer image](./footer-img.webp)
