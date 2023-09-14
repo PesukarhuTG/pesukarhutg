@@ -16,8 +16,12 @@ Some facts about me:
 ![HTML](https://img.shields.io/badge/-HTML-FFFFFF?style=flat-square&logo=HTML5&logoColor=E34F26)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-FFFFFF?style=flat-square&logo=CSS3&logoColor=1572B6)&nbsp;
 ![SASS](https://img.shields.io/badge/-SASS-FFFFFF?style=flat-square&logo=SASS)&nbsp;
-![JavaScript (ES5/ES6+)](https://img.shields.io/badge/-JavaScript-FFFFFF?style=flat-square&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-FFFFFF?style=flat-square&logo=typescript)&nbsp;
+![JavaScript (ES5/ES6+)](<https://img.shields.io/badge/-JavaScript_(ES5/ES6+)-FFFFFF?style=flat-square&logo=javascript>)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-FFFFFF?style=flat-square&logo=typescript)&nbsp;<br>
+![Semantic](https://img.shields.io/badge/Semantic%20layout-8A2BE2)&nbsp;
+![Responsive](https://img.shields.io/badge/Responsive_/%20adaptive%20design-5c81c9)&nbsp;
+![Cross-browser layout](https://img.shields.io/badge/Cross%20browser%20layout-8A2BE2)&nbsp;
+![Perfect pixel](https://img.shields.io/badge/Perfect%20pixel-5c81c9)&nbsp;
 
 ### Frameworks & Libraries:
 
@@ -35,7 +39,7 @@ Some facts about me:
 ![GitHub](https://img.shields.io/badge/-GitHub-FFFFFF?style=flat-square&logo=github&logoColor=000000)&nbsp;
 ![ESLint](https://img.shields.io/badge/-ESLint-FFFFFF?style=flat-square&logo=eslint&logoColor=4a31c3)&nbsp;
 ![Prettier](https://img.shields.io/badge/-Prettier-FFFFFF?style=flat-square&logo=prettier)&nbsp;
-![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-FFFFFF?style=flat-square&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![VS Code](https://img.shields.io/badge/-VSCode-FFFFFF?style=flat-square&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-FFFFFF?style=flat-square&logo=figma)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-FFFFFF?style=flat-square&logo=adobe-photoshop)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-FFFFFF?style=flat-square&logo=adobeillustrator)&nbsp;
