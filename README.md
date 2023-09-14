@@ -80,4 +80,8 @@ Some facts about me:
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pesukarhutg&theme=highcontrast)](https://github.com/pesukarhutg/github-readme-stats) -->
 
 <br><br>
+
+[![](https://www.codewars.com/users/pesukarhuTG/badges/large)](https://www.codewars.com/users/pesukarhuTG)
+
+<br><br>
 ![Footer image](./footer-img.webp)
