@@ -13,45 +13,45 @@ Some facts about me:
 
 ### Technical skills:
 
-![HTML](https://img.shields.io/badge/-HTML-FFFFFF?style=flat-square&logo=HTML5&logoColor=E34F26)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-FFFFFF?style=flat-square&logo=CSS3&logoColor=1572B6)&nbsp;
-![SASS](https://img.shields.io/badge/-SASS-FFFFFF?style=flat-square&logo=SASS)&nbsp;
-![JavaScript (ES5/ES6+)](<https://img.shields.io/badge/-JavaScript_(ES5/ES6+)-FFFFFF?style=flat-square&logo=javascript>)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-FFFFFF?style=flat-square&logo=typescript)&nbsp;<br>
-![Semantic](https://img.shields.io/badge/Semantic%20layout-8A2BE2)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-764abc?style=flat-square&logo=HTML5&logoColor=fb80fa)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-764abc?style=flat-square&logo=CSS3&logoColor=63d8f8)&nbsp;
+![SASS](https://img.shields.io/badge/-SASS-764abc?style=flat-square&logo=SASS&logoColor=fb80fa)&nbsp;
+![JavaScript](<https://img.shields.io/badge/-JavaScript_(ES5/ES6+)-764abc?style=flat-square&logo=javascript&logoColor=fbf808>)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-764abc?style=flat-square&logo=typescript&logoColor=63d8f8)&nbsp;<br>
+![Semantic](https://img.shields.io/badge/Semantic%20layout-5c81c9)&nbsp;
 ![Responsive](https://img.shields.io/badge/Responsive_/%20adaptive%20design-5c81c9)&nbsp;
-![Cross-browser layout](https://img.shields.io/badge/Cross%20browser%20layout-8A2BE2)&nbsp;
+![Cross-browser layout](https://img.shields.io/badge/Cross%20browser%20layout-5c81c9)&nbsp;
 ![Perfect pixel](https://img.shields.io/badge/Perfect%20pixel-5c81c9)&nbsp;
 
 ### Frameworks & Libraries:
 
-![ReactJS](https://img.shields.io/badge/-ReactJS-FFFFFF?style=flat-square&logo=react)&nbsp;
-![Redux](https://img.shields.io/badge/-Redux-FFFFFF?style=flat-square&logo=Redux&logoColor=31008D)&nbsp;
-![Styled components](https://img.shields.io/badge/-Styled_Components-FFFFFF?style=flat-square&logo=styledcomponents)&nbsp;
-![ANT-Design](https://img.shields.io/badge/-ANT_Design-FFFFFF?style=flat-square&logo=antdesign&logoColor=1677ff)&nbsp;
-![Material UI](https://img.shields.io/badge/-Material_UI-FFFFFF?style=flat-square&logo=mui)&nbsp;
-![JQuery](https://img.shields.io/badge/-JQuery-FFFFFF?style=flat-square&logo=JQuery&logoColor=0769ad)&nbsp;
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-FFFFFF?style=flat-square&logo=TailwindCSS)&nbsp;
+![ReactJS](https://img.shields.io/badge/-ReactJS-764abc?style=flat-square&logo=react&logoColor=63d8f8)&nbsp;
+![Redux](https://img.shields.io/badge/-Redux-764abc?style=flat-square&logo=Redux&logoColor=63d8f8)&nbsp;
+![Styled components](https://img.shields.io/badge/-Styled_Components-764abc?style=flat-square&logo=styledcomponents)&nbsp;
+![ANT-Design](https://img.shields.io/badge/-ANT_Design-764abc?style=flat-square&logo=antdesign&logoColor=63d8f8)&nbsp;
+![Material UI](https://img.shields.io/badge/-Material_UI-764abc?style=flat-square&logo=mui&logoColor=63d8f8)&nbsp;
+![JQuery](https://img.shields.io/badge/-JQuery-764abc?style=flat-square&logo=JQuery&logoColor=63d8f8)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-764abc?style=flat-square&logo=TailwindCSS&logoColor=63d8f8)&nbsp;
 
 ### Tools:
 
-![Git](https://img.shields.io/badge/-Git-FFFFFF?style=flat-square&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-FFFFFF?style=flat-square&logo=github&logoColor=000000)&nbsp;
-![ESLint](https://img.shields.io/badge/-ESLint-FFFFFF?style=flat-square&logo=eslint&logoColor=4a31c3)&nbsp;
-![Prettier](https://img.shields.io/badge/-Prettier-FFFFFF?style=flat-square&logo=prettier)&nbsp;
-![VS Code](https://img.shields.io/badge/-VSCode-FFFFFF?style=flat-square&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-FFFFFF?style=flat-square&logo=figma)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-FFFFFF?style=flat-square&logo=adobe-photoshop)&nbsp;
-![Illustrator](https://img.shields.io/badge/-Illustrator-FFFFFF?style=flat-square&logo=adobeillustrator)&nbsp;
+![Git](https://img.shields.io/badge/-Git-5c81c9?style=flat-square&logo=git&logoColor=fb80fa)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-5c81c9?style=flat-square&logo=github&logoColor=000000)&nbsp;
+![ESLint](https://img.shields.io/badge/-ESLint-5c81c9?style=flat-square&logo=eslint&logoColor=4a31c3)&nbsp;
+![Prettier](https://img.shields.io/badge/-Prettier-5c81c9?style=flat-square&logo=prettier&logoColor=fbf808)&nbsp;
+![VS Code](https://img.shields.io/badge/-VSCode-5c81c9?style=flat-square&logo=visual-studio-code&logoColor=63d8f8)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-5c81c9?style=flat-square&logo=figma)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-5c81c9?style=flat-square&logo=adobe-photoshop&logoColor=63d8f8)&nbsp;
+![Illustrator](https://img.shields.io/badge/-Illustrator-5c81c9?style=flat-square&logo=adobeillustrator&logoColor=fb80fa)&nbsp;
 
 ### Email tools & CMS:
 
-![GetResponse](https://img.shields.io/badge/-GetResponse-FFFFFF?style=flat-square&logo=minutemailer&logoColor=00a2ff)&nbsp;
-![Mailchimp](https://img.shields.io/badge/-Mailchimp-FFFFFF?style=flat-square&logo=Mailchimp)&nbsp;
-![SendPulse](https://img.shields.io/badge/-SendPulse-FFFFFF?style=flat-square&logo=minutemailer&logoColor=009fc1)&nbsp;
-![Unisender](https://img.shields.io/badge/-Unisender-FFFFFF?style=flat-square&logo=datadog&logoColor=ffb842)&nbsp;
-![WordPress](https://img.shields.io/badge/-WordPress-FFFFFF?style=flat-square&logo=WordPress&logoColor=000000)&nbsp;
-![Joomla](https://img.shields.io/badge/-Joomla-FFFFFF?style=flat-square&logo=Joomla)&nbsp;
-![Bitrix24](https://img.shields.io/badge/-Bitrix24-FFFFFF?style=flat-square&logo=bookalope&logoColor=00aeef)&nbsp;
-
+![GetResponse](https://img.shields.io/badge/-GetResponse-764abc?style=flat-square&logo=minutemailer&logoColor=63d8f8)&nbsp;
+![Mailchimp](https://img.shields.io/badge/-Mailchimp-764abc?style=flat-square&logo=Mailchimp)&nbsp;
+![SendPulse](https://img.shields.io/badge/-SendPulse-764abc?style=flat-square&logo=minutemailer&logoColor=63d8f8)&nbsp;
+![Unisender](https://img.shields.io/badge/-Unisender-764abc?style=flat-square&logo=datadog&logoColor=fbf808)&nbsp;
+![WordPress](https://img.shields.io/badge/-WordPress-764abc?style=flat-square&logo=WordPress&logoColor=000000)&nbsp;
+![Joomla](https://img.shields.io/badge/-Joomla-764abc?style=flat-square&logo=Joomla&logoColor=63d8f8)&nbsp;
+![Bitrix24](https://img.shields.io/badge/-Bitrix24-764abc?style=flat-square&logo=bookalope&logoColor=63d8f8)&nbsp;
+<br><br><br>
 ![Footer image](./footer-img.webp)
