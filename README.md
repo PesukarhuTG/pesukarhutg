@@ -49,3 +49,5 @@ Some facts about me:
 ![WordPress](https://img.shields.io/badge/-WordPress-FFFFFF?style=flat-square&logo=WordPress&logoColor=000000)&nbsp;
 ![Joomla](https://img.shields.io/badge/-Joomla-FFFFFF?style=flat-square&logo=Joomla)&nbsp;
 ![Bitrix24](https://img.shields.io/badge/-Bitrix24-FFFFFF?style=flat-square&logo=bookalope&logoColor=00aeef)&nbsp;
+
+![Footer image](./footer-img.webp)
