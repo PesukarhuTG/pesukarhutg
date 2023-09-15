@@ -93,8 +93,8 @@ Some facts about me:
 </div>
 <br>
 <div align="center">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=pesukarhuTG&show_icons=true&count_private=true&theme=react&border_color=1F222E&bg_color=1F222E&title_color=56cff1&icon_color=56cff1" alt="Tatiana Fox's Github Stats"  height="200" width="49.5%"/>
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=pesukarhuTG&langs_count=8&layout=compact&theme=react&border_color=1F222E&bg_color=1F222E&title_color=56cff1&icon_color=56cff1" alt="Tatiana Fox's Top Languages"height="200" width="49.5%"/>
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=pesukarhuTG&show_icons=true&count_private=true&theme=react&border_color=1F222E&bg_color=1F222E&title_color=56cff1&icon_color=56cff1" alt="Tatiana Fox's Github Stats"  height="200" width="56.5%"/>
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=pesukarhuTG&langs_count=8&layout=compact&theme=react&border_color=1F222E&bg_color=1F222E&title_color=56cff1&icon_color=56cff1" alt="Tatiana Fox's Top Languages"height="200" width="41%"/>
 </div>
 
 <br><br>
